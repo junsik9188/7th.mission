@@ -1,0 +1,12 @@
+.btn-outline-success{
+  color: violet;
+  background-color: violet;
+}
+
+.btn-outline-success:hover{
+  color: white;
+  background-color: violet;
+  border-color: violet;
+}
+
+
